@@ -16,7 +16,7 @@ const cardData: CardProps[] = [
         icon: DollarSign
     },
     {
-        discription: "Sensor ultrasonik adalah perangkat elektronik yang digunakan untuk mendeteksi jarak atau keberadaan benda dengan menggunakan gelombang ultrasonik. Prinsip kerja sensor ultrasonik didasarkan pada pengiriman pulsa gelombang ultrasonik ke objek yang ingin dideteksi, dan kemudian mengukur waktu yang dibutuhkan untuk gelombang ultrasonik tersebut kembali setelah dipantulkan oleh objek.",
+        discription: "Sensor ultrasonik adalah perangkat elektronik yang digunakan untuk mendeteksi jarak atau keberadaan benda dengan menggunakan gelombang ultrasonik. Prinsip kerja sensor ultrasonik didasarkan pada pengiriman pulsa gelombang ultrasonik ke objek yang ingin dideteksi, dan kemudian mengukur waktu yang dibutuhkan untuk gelombang ultrasonik tersebut kembali setelah dipantulkan oleh suatu objek.",
         amount: " ",
         label: "Deskripsi",
         icon: Users
